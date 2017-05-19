@@ -1,0 +1,7 @@
+http://ltp.readthedocs.io/zh_CN/latest/
+
+https://github.com/HIT-SCIR/ltp
+
+root oseasy@0333
+
+192.168.0.115
